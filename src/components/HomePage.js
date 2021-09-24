@@ -736,6 +736,10 @@ flex-direction: column;
     border-top: solid 1px white;
 
 }
+a{
+    color:white;
+    text-decoration: none;
+}
 
 
 `
