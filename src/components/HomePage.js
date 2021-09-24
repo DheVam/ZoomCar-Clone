@@ -20,13 +20,12 @@ import How from "./Assets/how.svg"
 import Twitter from "./Assets/Twitter.svg"
 import car3 from "./Assets/car3.svg";
 import happy from "./Assets/happy.svg";
-import help from "./Assets/help.svg";
 import ratings from "./Assets/ratings.svg";
 import safety from "./Assets/safety.svg";
 import policies from "./Assets/policies.svg";
 import speedometer from "./Assets/speedometer.svg";
 import steeringwheel from "./Assets/Steeringwheel.svg"
-import { Parallax, Background } from "react-parallax";
+import { Parallax } from "react-parallax";
 import Gallery from "./carousel";
 
 const Home = () => {
@@ -203,31 +202,31 @@ const Home = () => {
                     <InnerContainer>
                         <h4>About Us</h4>
                         <div class="final-data">
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
-                            <a>Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Zoom car blog</a>
 
                         </div>
                     </InnerContainer>
                     <InnerContainer>
                         <h4>Cities</h4>
                         <div class="final-data">
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
 
 
                         </div>
@@ -236,35 +235,28 @@ const Home = () => {
                     <InnerContainer className="AirportServices">
                         <h4>Airport services</h4>
                         <div class="final-data">
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
-                            <a>Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
+                            <a href="https://www.zoomcar.com/bangalore/">Car rental from bangalore airport</a>
                         </div>
                         <div class="moredetails">
                             <h4>
