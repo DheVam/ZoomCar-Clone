@@ -138,8 +138,8 @@ const Home = () => {
                         <h1>ZOOM ON THE GO!</h1>
                         <p>Make a booking, unlock your car, and end your reservation all from our app</p>
                         <div>
-                            <img src={AppStore} width="140px" height="42px"></img>
-                            <img src={playstore} width="140px" height="42px"></img>
+                            <img src={AppStore} width="140px" height="42px" alt=""></img>
+                            <img src={playstore} width="140px" height="42px" alt=""></img>
                         </div>
                     </HeroContent>
                 </Content>
@@ -273,10 +273,10 @@ const Home = () => {
 
                             <p>7th Floor, Tower-B, Diamond District, 150, HAL Airport Road, Kodihalli, Bangalore – 560008</p>
                             <div class="icons">
-                                <img src={Twitter} />
-                                <img src={Twitter} />
-                                <img src={Twitter} />
-                                <img src={Twitter} />
+                                <img src={Twitter} alt=""/>
+                                <img src={Twitter} alt=""/>
+                                <img src={Twitter} alt=""/>
+                                <img src={Twitter} alt="" />
                             </div>
                             <p>© Copyright 2017 Zoomcar India Private Ltd. All rights reserved.
                             </p>
